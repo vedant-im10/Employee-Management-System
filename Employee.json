@@ -1,0 +1,25 @@
+[{
+        "employeeid": "101",
+        "name": "Vedant Patel",
+        "salary": "9999999",
+        "department": "Computer"
+    },
+    {
+        "employeeid": "102",
+        "name": "Raju",
+        "salary": "478000",
+        "department": "Aero"
+    },
+    {
+        "employeeid": "103",
+        "name": "Scarlet",
+        "salary": "465123",
+        "department": "Civil"
+    },
+    {
+        "employeeid": "104",
+        "name": "Dhwani",
+        "salary": "646513",
+        "department": "ICT"
+    }
+]
